@@ -1,11 +1,10 @@
   👋 Hi, I’m Mahesh shendre
 
-  👀 I’m interested in Software development and engineering
+  👀 Piroo in Software development, Cloud computing, AWS, Dta Analytics and engineering.
 
-  🌱• Front Web Development - React JS & Bootstrap
-    • Java Programming
-    • Microsoft SQL Server Development
-    • Android Application Development
+  🌱  Front Web Development - React JS & Bootstrap ||
+      Java Programming, SQL ||
+      Android Application Development ||
 
   📫 How to reach me:-
      maheshshendre786@gmail.com 
