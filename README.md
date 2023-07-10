@@ -1,6 +1,6 @@
   👋  Hi, I’m Mahesh shendre
 
-  👀  Piroo in Software development, Cloud computing, Data Analytics and engineering.
+  👀  Piroo in development, Cloud computing, Data Analytics and engineering.
 
   🌱  Java Programming, SQL, Microsoft Excel, Power BI, Python ||
 
